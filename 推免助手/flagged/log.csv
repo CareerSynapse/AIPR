@@ -1,0 +1,34 @@
+question,top_k,问答模式,检索结果,增强生成结果,无知识库生成结果,flag,username,timestamp
+强com和弱com是什么意思？,5,基于检索,"### **基本术语（com是什么？）**  
+先介绍几个基本的术语（行业黑话）  
+- bg：background 学校背景 分为四档 985 211 双一流 以及本人（四非）
+- rk：rank 专业排名
+- bar：学校的门槛，一般说某个学校bar高就是很难进
+- 套磁（陶瓷）：指向心仪的目标院校老师发邮件自荐，如果老师喜欢并加了微信对你面试承诺给予你推荐，那就是套上了
+- com：committee，也就是招生委员会or研招办，各个高校的不同学院都有自己的研招办来负责保研材料的审核以及夏令营预推免面试等的安排
+- 强com：例如中大CS，研招办严卡bg和rk，双非四非一般一个不要，老师也捞不动
+- 弱com：导师有很大的话语权，一般导师点头就可以要，例如电子科大uestc 厦大xmu 这类导师就需要积极进行套磁联系
+
+- [强弱com表](https://link.zhihu.com/?target=https%3A//github.com/CS-BAOYAN/CS-BAOYAN-2023/blob/main/%E9%99%A2%E6%A0%A1%E8%A7%A3%E6%9E%90/README.md)：注意强弱com不是绝对的，有一些学院会突然改变，如xmuAI院本来是弱com，今年突然变强，夏令营很多推荐进不去  
+- offer：这个就是字面意思，录取承诺
+
+- [强弱com表](https://link.zhihu.com/?target=https%3A//github.com/CS-BAOYAN/CS-BAOYAN-2023/blob/main/%E9%99%A2%E6%A0%A1%E8%A7%A3%E6%9E%90/README.md)：注意强弱com不是绝对的，有一些学院会突然改变，如[xmuAI院](https://www.zhihu.com/search?q=xmuAI院&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={""sourceType""%3A""answer""%2C""sourceId""%3A3230124383})本来是弱com，今年突然变强，夏令营很多推荐进不去  
+- `offer`：这个就是字面意思，录取承诺
+
+### **基本术语（com是什么？）**  
+先介绍几个基本的术语（行业黑话）  
+- `bg`：background 学校背景 分为四档 985 211 双一流 以及本人（四非）  
+- `rk`：rank 专业排名  
+- `bar`：学校的门槛，一般说某个学校bar高就是很难进  
+- `套磁（陶瓷）`：指向心仪的目标院校老师发邮件自荐，如果老师喜欢并加了微信对你面试承诺给予你推荐，那就是套上了  
+- `com`：committee，也就是招生委员会or[研招办](https://www.zhihu.com/search?q=研招办&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={""sourceType""%3A""answer""%2C""sourceId""%3A3230124383})，各个高校的不同学院都有自己的研招办来负责保研材料的审核以及夏令营预推免面试等的安排
+
+**rk**：rank的简写。rk1就是第一名。  
+**bar**：学校会从报名夏令营和预推免的人中，根据你本科院校和学科排名，筛选出报名人中的优秀选手入营，而学校所选取的院校与排名的标准，称为bar。如：某985夏令营只要985学校rk1，这个学校的bar真高！  
+**title**：指学校的名声响不响，实力强不强。说一个学校title好，是指这个学校水平比较高，出来的学生的水平比较受业界认可。  
+**套磁**：来源于touch，指学生和老师联系。他提前套了这个老师，意思就是提前联系了这个老师。还有一种套磁是**反向套磁**，指老师反向联系学生。  
+**强com/弱com**：学校招生办的话语权大/导师话语权小，则称这个学校为强com；反之为弱com。强com套磁用处不大，导师难以改变结果；弱com陶瓷更有用，导师可以直接把你捞上去。  
+**鸽子**：指拿了offer但最后不去的选手。**鸽**指把学校的offer或老师的offer拒绝掉。如：某大佬把清华鸽了！
+
+", 强com和弱com分别指学校招生办和导师在保研过程中的话语权大小。强com指学校招生办的话语权大，导师难以改变结果，套磁的用处不大；弱com指导师话语权大，可以直接把学生捞上去，套磁更有用。, ,,,2024-03-04 22:29:26.295586
+东南大学通信导师,5,不基于检索, , ,",上海交通大学电子导师,中国电信专家委员会委员,中国通信学会通信网络委员会委员,中国网络学会网络技术委员会委员,江苏省智能网络技术重点实验室副主任。 主要研究方向：下一代互联网、网络安全、网络性能评估与优化、网络视频、移动互联网、无线网络、网络管理。主持国家自然科学基金、863计划、973计划、国家发改委、国家科技支撑计划、江苏省科技支撑计划等科研项目。在IEEE Transactions、Journal of Lightwave Technology、IEEE/ACM Transactions、 IEEE Communications Magazine等国际知名学术期刊和会议上发表论文百余篇。曾荣获“国家科技进步二等奖”1项、“江苏",,,2024-03-04 22:51:00.544679
