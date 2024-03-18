@@ -8,7 +8,7 @@
 
 ### Web Demo
 
-We have deployed “小T”  to public network!!! 【[Demo](http://49.232.147.232:8503/?apikey=a9c81b2535ce6c978c0a0fb0a3afe829.Vt0n3jhs4m6O5d4k)】
+We have deployed “小T”  to public network!!! 【[Demo](http://49.232.147.232:8503】
 
 ### To run:
 
