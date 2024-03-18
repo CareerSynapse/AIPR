@@ -3,7 +3,7 @@
 ### :pick: To do:
 
 - [x] [Langchain RAG “小T” Demo](./推免助手/Demo.ipynb)
-- [x] [Streamlist RAG “小T” Demo](./推免助手/Chatbot.py)
+- [x] [Streamlit RAG “小T” Demo](./推免助手/Chatbot.py)
 - [ ] Online Search "小T" Demo
 
 ### Web Demo
