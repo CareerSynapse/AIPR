@@ -523,8 +523,8 @@ persist_directory = 'chroma/data'
 
 # 百度千帆Embedding模型密钥获取：https://cloud.baidu.com/doc/WENXINWORKSHOP/s/flfmc9do2
 embedding = QianfanEmbeddingsEndpoint(
-    qianfan_ak='QkbdYdfXGPv5jkvSb2aJlzdv',
-    qianfan_sk='NsyTEvBEw0PGT13ldqIvUaIV6KIOb2ub',
+    qianfan_ak='qianfan_ak',
+    qianfan_sk='qianfan_sk',
     model="bge_large_zh", endpoint="bge_large_zh"
 )
 # 填写您自己的APIKey [获取GLM4 API](https://maas.aminer.cn/usercenter/apikeys)

@@ -1,0 +1,10 @@
+langchain
+unstructured
+markdown
+modelscope
+chromadb
+openai
+zhipuai
+qianfan
+streamlit
+gradio
