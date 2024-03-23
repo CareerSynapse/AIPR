@@ -8,7 +8,7 @@
 
 ### Web Demo
 
-We have deployed “小T”  to public network!!! 【[Demo](http://49.232.147.232:8503)】
+We have deployed “小T”  to public network!!! 【[Demo](http://49.232.147.232:8501)】
 
 ### Details
 
