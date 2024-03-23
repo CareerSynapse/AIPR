@@ -10,9 +10,7 @@
 
 We have deployed “小T”  to public network!!! 【[Demo](http://49.232.147.232:8503)】
 
-### To run:
+### Details
 
-```
-...
-```
+More details can be found [here](./推免助手/README.md)
 
