@@ -27,7 +27,7 @@
 ```
 conda create -n baoyan python=3.10
 conda activate baoyan
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 **注意**: 如果未安装conda环境，也可通过virtualenv创建环境并安装所有依赖包
@@ -45,3 +45,4 @@ pip install -r requirements.txt #使用pip来安装需要的Python包
 [GLM4](https://maas.aminer.cn/usercenter/apikeys)
 
 [OpenAI](https://platform.openai.com/docs/introduction)
+
